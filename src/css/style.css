@@ -1,0 +1,16 @@
+body {
+  margin:0;
+  padding:0;
+}
+#container {
+  overflow:hidden;
+  width:600px;
+  position: absolute;
+  margin: 0 auto;
+  left: 600px;
+  top: 100px;
+  border: 1px solid black;
+}
+.td {
+  border: 1px solid black;
+}
